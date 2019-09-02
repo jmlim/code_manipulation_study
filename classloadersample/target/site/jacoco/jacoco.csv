@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+classloader-sample,io.jmlim.bytebuddy_example,Masulsa,39,0,0,0,10,0,2,0,2,0
+classloader-sample,io.jmlim.bytebuddy_example,Moja,5,0,0,0,2,0,2,0,2,0
+classloader-sample,io.jmlim,Book,3,0,0,0,1,0,1,0,1,0
+classloader-sample,io.jmlim,Moim,4,13,2,2,2,4,2,2,0,2
+classloader-sample,io.jmlim,App,32,0,0,0,11,0,3,0,3,0

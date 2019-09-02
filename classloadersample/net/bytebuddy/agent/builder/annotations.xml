@@ -1,0 +1,5 @@
+<root>
+    <item name='net.bytebuddy.agent.builder.AgentBuilder'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
